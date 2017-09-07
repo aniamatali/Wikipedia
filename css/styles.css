@@ -2,8 +2,8 @@ body  {
   background-color:white;
 }
 
-.welcome  {
-  text-align:right;
+.welcome {
+  float:right;
 }
 
 #galaxyfloatleft  {
@@ -28,4 +28,13 @@ body  {
 
 #bottombg {
   background-color:#faf5ff;
+}
+
+#welcomeleft  {
+  display:inline-block;
+}
+
+#welcomeright {
+  float:right;
+  text-align:right;
 }
