@@ -91,3 +91,19 @@ body  {
 .panel-title {
   color:black;
 }
+
+.didyouknow  {
+  border:1px solid #b0d1a3;
+  background-color:#dff0d8;
+}
+
+.didyouknow2 {
+  background-color:#d9edf7;
+  border:1px solid #bce8f1;
+}
+
+.form-group {
+  padding-top:6px;
+  padding-bottom:0;
+  padding-right:2px;
+}
