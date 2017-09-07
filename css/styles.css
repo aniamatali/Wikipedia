@@ -88,10 +88,6 @@ body  {
   text-align:right;
 }
 
-.panel-title {
-  color:black;
-}
-
 .didyouknow  {
   border:1px solid #b0d1a3;
   background-color:#dff0d8;
@@ -106,4 +102,8 @@ body  {
   padding-top:6px;
   padding-bottom:0;
   padding-right:2px;
+}
+
+.panel-heading  {
+  font-size: 16px;
 }
