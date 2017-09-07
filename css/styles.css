@@ -1,0 +1,31 @@
+body  {
+  background-color:white;
+}
+
+.welcome  {
+  text-align:right;
+}
+
+#galaxyfloatleft  {
+  float:left;
+}
+
+.galaxyfloatright  {
+  float:right;
+}
+
+#panelleftbg  {
+  background-color:#f5fffa;
+}
+
+#panelrightbg  {
+  background-color:#f5faff;
+}
+
+#bottompanelbg  {
+  background-color:#afa3bf;
+}
+
+#bottombg {
+  background-color:#faf5ff;
+}
