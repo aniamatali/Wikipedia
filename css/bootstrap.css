@@ -5722,7 +5722,6 @@ button.list-group-item-danger.active:focus {
   border-color: #d6e9c6;
 }
 .panel-success > .panel-heading {
-  color: #3c763d;
   background-color: #dff0d8;
   border-color: #d6e9c6;
 }
@@ -5740,7 +5739,6 @@ button.list-group-item-danger.active:focus {
   border-color: #bce8f1;
 }
 .panel-info > .panel-heading {
-  color: #31708f;
   background-color: #d9edf7;
   border-color: #bce8f1;
 }

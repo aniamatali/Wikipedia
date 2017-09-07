@@ -26,12 +26,15 @@ hr  {
   float:right;
 }
 
+img {
+  padding:10px;
+}
 
 .longhr {
   width:auto;
   border-top:1px solid#000;
-
 }
+
 .left {
   position:absolute;
   left:0;
@@ -83,4 +86,8 @@ body  {
 #welcomeright {
   float:right;
   text-align:right;
+}
+
+.panel-title {
+  color:black;
 }
