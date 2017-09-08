@@ -1,0 +1,126 @@
+.inlinelist li {
+  display: inline;
+  list-style-type: none;
+  padding-left: 10px;
+  float:right;
+}
+
+#imgpadding {
+  padding-bottom:20px;
+}
+
+.sidebarlink  {
+  padding-top:10px;
+  list-style:none;
+  padding-left:0;
+}
+
+hr  {
+  margin:0;
+  padding:0;
+  width:150px;
+
+}
+
+.pright {
+  float:right;
+}
+
+img {
+  padding:10px;
+}
+
+.longhr {
+  width:auto;
+  border-top:1px solid#000;
+}
+
+.left {
+  position:absolute;
+  left:0;
+  width:200px;
+  padding-left:20px;
+}
+
+.main {
+  position:absolute;
+  left:200px;
+}
+
+body  {
+  background-color:white;
+}
+
+.welcome {
+  float:right;
+}
+
+#galaxyfloatleft  {
+  float:left;
+}
+
+.galaxyfloatright  {
+  float:right;
+}
+
+#panelleftbg  {
+  background-color:#f5fffa;
+}
+
+#panelrightbg  {
+  background-color:#f5faff;
+}
+
+#bottompanelbg  {
+  background-color:#afa3bf;
+}
+
+#bottombg {
+  background-color:#faf5ff;
+}
+
+#welcomeleft  {
+  display:inline-block;
+}
+
+#welcomeright {
+  float:right;
+  text-align:right;
+}
+
+.didyouknow  {
+  border:1px solid #b0d1a3;
+  background-color:#dff0d8;
+}
+
+.didyouknow2 {
+  background-color:#d9edf7;
+  border:1px solid #bce8f1;
+}
+
+.form-group {
+  padding-top:6px;
+  padding-bottom:0;
+  padding-right:2px;
+}
+
+.panel-heading  {
+  font-size: 16px;
+}
+
+.welcomebox {
+  border: 1px solid #dee1e5;
+  margin-bottom:15px;
+  padding:5px;
+  padding:5px;
+  background-color:#f2f2f2;
+}
+
+.row {
+  margin-bottom:0px;
+}
+
+#searchbutton {
+  padding-top:6px;
+  float:right;
+}
